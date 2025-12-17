@@ -54,25 +54,26 @@ https://docs.google.com/spreadsheets/d/1h9fRKx9_PxuGk1PytCXSCwvTGnO-VUlu/edit?us
 ---
 
 ## Repository Structure
-NYC YELLOW TAXI/
+
+NYC-YELLOW-TAXI-DAV/
 │
 ├── Images/
-│   ├── KNIME Workflow.png
-│   ├── PowerBI Dashboard 1.png
-│   ├── PowerBI Dashboard 2.png
-│   ├── Tableau Dashboard 1.png
-│   └── Tableau Dashboard 2.png
+│ ├── KNIME Workflow.png
+│ ├── PowerBI Dashboard 1.png
+│ ├── PowerBI Dashboard 2.png
+│ ├── Tableau Dashboard 1.png
+│ └── Tableau Dashboard 2.png
 │
 ├── Source/
-│   ├── Original Source Link.txt
-│   └── Used Data Source Link.txt
+│ ├── Original Source Link.txt
+│ └── Used Data Source Link.txt
 │
 ├── KNIME_Workflow.knwf
 ├── Power_BI_Dashboards.txt
+├── Tableau_Dashboards.txt
 ├── Project_Code.ipynb
 ├── Project_Report.docx
-├── README.md
-└── Tableau_Dashboards.txt
+└── README.md
 
 ---
 
@@ -302,3 +303,4 @@ Data Analytics & Visualization Project
 - NYC Taxi & Limousine Commission
 - Kaggle Dataset Contributors
 - Folium for spatial visualizations
+
